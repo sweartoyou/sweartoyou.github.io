@@ -79,7 +79,6 @@ function BYTE-PAIR ENCODING(strings C, number of merges k) returns vocab V
 ```
 
 ### Python实现
-参考文件[]
 ```python
 from collections import Counter, defaultdict
 
